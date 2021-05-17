@@ -30,7 +30,7 @@ img, video, iframe {
 header {
     max-width: 80%;
     margin: 0 auto;
-    background-image: url(/assets/img/yourname.jpg);
+    background-image: url(/assets/img/bg.jpg);
     background-size: cover;
     color: rgba(255, 255, 255, .75);
 }
@@ -46,10 +46,19 @@ header {
     margin-top: 20%;
 }
 
+.site-title {
+    color: white;
+}
+
+.site-title:hover {
+    color:black;
+}
+
 .site-description {
-    padding: 7rem;
+    padding: 5rem;
     font-family: "League Gothic", "Arial Narrow", Arial, sans-serif;
     text-align: center;
+    font-size: xx-large;
 }
 
 

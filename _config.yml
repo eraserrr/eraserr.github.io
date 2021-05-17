@@ -1,5 +1,5 @@
-title : 쭈구리의 성장일지
-description: 쭈구리의 성장일지
+title : TURN ON THE SWITCH
+description: 
 
 markdown: kramdown
 highlighter: rouge
@@ -7,4 +7,4 @@ logo: false
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist, jekyll-paginate]
-permalink: /:year/:month/:title.html
+permalink: /:categories/:title.html
