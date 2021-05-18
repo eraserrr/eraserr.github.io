@@ -136,3 +136,8 @@ main {
 .post-container {
     font-family: "Open Sans", sans-serif;
 }
+
+.post-title {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}

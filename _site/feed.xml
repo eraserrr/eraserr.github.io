@@ -5,36 +5,27 @@
     <description></description>
     <link>//</link>
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 May 2021 01:46:02 +0900</pubDate>
-    <lastBuildDate>Tue, 18 May 2021 01:46:02 +0900</lastBuildDate>
+    <pubDate>Tue, 18 May 2021 16:44:31 +0900</pubDate>
+    <lastBuildDate>Tue, 18 May 2021 16:44:31 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>First Post</title>
-        <description>&lt;p&gt;hi
-&lt;img src=&quot;/assets/img/logo.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;h4 id=&quot;2021517-첫-포스팅이다&quot;&gt;2021/5/17 첫 포스팅이다&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+열심히 해야징
+&lt;br /&gt;
+이상&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 May 2021 00:00:00 +0900</pubDate>
         <link>//daily/test.html</link>
         <guid isPermaLink="true">//daily/test.html</guid>
         
-        <category>sample post</category>
+        <category>githubpages</category>
         
+        <category>github</category>
         
-        <category>Daily</category>
-        
-      </item>
-    
-      <item>
-        <title>First Post</title>
-        <description>&lt;p&gt;hi
-&lt;img src=&quot;/assets/img/logo.png&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 May 2021 00:00:00 +0900</pubDate>
-        <link>//daily/test-copy-2.html</link>
-        <guid isPermaLink="true">//daily/test-copy-2.html</guid>
-        
-        <category>sample post</category>
+        <category>jekyll</category>
         
         
         <category>Daily</category>
